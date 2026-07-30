@@ -1,2 +1,1 @@
-fastapi
-uvicorn
+# Vercel Python - sem dependências externas
